@@ -1,0 +1,14 @@
+C:\Users\abdir\source\repos\firewall\firewall\bin\Debug\net8.0\firewall.exe
+C:\Users\abdir\source\repos\firewall\firewall\bin\Debug\net8.0\firewall.deps.json
+C:\Users\abdir\source\repos\firewall\firewall\bin\Debug\net8.0\firewall.runtimeconfig.json
+C:\Users\abdir\source\repos\firewall\firewall\bin\Debug\net8.0\firewall.dll
+C:\Users\abdir\source\repos\firewall\firewall\bin\Debug\net8.0\firewall.pdb
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\firewall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\firewall.AssemblyInfoInputs.cache
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\firewall.AssemblyInfo.cs
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\firewall.csproj.CoreCompileInputs.cache
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\firewall.dll
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\refint\firewall.dll
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\firewall.pdb
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\firewall.genruntimeconfig.cache
+C:\Users\abdir\source\repos\firewall\firewall\obj\Debug\net8.0\ref\firewall.dll
