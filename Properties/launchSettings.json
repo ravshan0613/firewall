@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "firewall": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
