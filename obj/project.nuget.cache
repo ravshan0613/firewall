@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TQyEDZaEGc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdir\\source\\repos\\firewall\\firewall\\firewall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdir\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.16\\microsoft.dotnet.ilcompiler.8.0.16.nupkg.sha512",
+    "C:\\Users\\abdir\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.16\\microsoft.net.illink.tasks.8.0.16.nupkg.sha512",
+    "C:\\Users\\abdir\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1-preview.1.nupkg.sha512",
+    "C:\\Users\\abdir\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.16\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
